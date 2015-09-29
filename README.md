@@ -7,3 +7,5 @@ Very primitive.
 Has single source lighting & texturing (auto generated texture from http://ricardocabello.com/blog/post/710)
 
 This was more of an experiment and learning experience than an actual product. I don't recommend using this for anything.
+
+http://htmlpreview.github.io/?https://github.com/gregfrazier/3dObjectViewerJS/blob/master/CellShade.html
